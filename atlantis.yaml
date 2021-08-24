@@ -1,4 +1,4 @@
 version: 3
 projects:
-- dir: atlantisdryrun
+- dir: projectlist
   terraform_version: 0.14.5
